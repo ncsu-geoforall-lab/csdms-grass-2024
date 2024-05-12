@@ -14,7 +14,7 @@ This is a set of Jupyter Notebooks for a workshop at CSDMS's 2024 Annual Meeting
 ## How to run these notebooks
 
 The notebooks can be run locally
-if a user installs GRASS GIS along with Jupyter Lab, folium, and a `git` client on their computer.
+if users installs GRASS GIS along with Jupyter Lab, folium, and a `git` client on their computer.
 All notebooks are also available to run
 on [EarthscapeHub][jhub].
 Click this button:
@@ -26,6 +26,13 @@ to open the lessons directly on the EarthscapeHub *lab* instance!
 > **Note:** The EarthscapeHub *lab* instance is password-protected.
   Please contact your instructor about obtaining a login,
   or visit [this][jhub-info] CSDMS wiki page for more information.
+
+
+Once you are in [EarthscapeHub][jhub], open a terminal and clone this repository using:
+
+```
+git clone https://github.com/ncsu-geoforall-lab/csdms-grass-2024.git
+```
 
 
 ## Workshop Agenda
