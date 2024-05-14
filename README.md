@@ -2,7 +2,7 @@
 
 [jhub]: https://csdms.colorado.edu/wiki/JupyterHub
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
-[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fivy&urlpath=lab%2Ftree%2Fivy%2FREADME.ipynb%3Fautodecode&branch=main
+[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/
 [jhub-info]: https://csdms.colorado.edu/wiki/JupyterHub
 
 
@@ -28,7 +28,7 @@ to open the lessons directly on the EarthscapeHub *lab* instance!
   or visit [this][jhub-info] CSDMS wiki page for more information.
 
 
-Once you are in [EarthscapeHub][jhub], open a terminal and clone this repository using:
+Once you are in [EarthscapeHub][jhub-link], open a terminal and clone this repository using:
 
 ```
 git clone https://github.com/ncsu-geoforall-lab/csdms-grass-2024.git
