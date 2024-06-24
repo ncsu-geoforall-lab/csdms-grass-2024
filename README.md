@@ -71,3 +71,7 @@ git clone https://github.com/ncsu-geoforall-lab/csdms-grass-2024.git
 ## License
 
 This material is dual licensed under GNU FDL 1.3 and CC BY-SA 4.0.
+
+## Acknowledgement
+
+This workshop was developed and delivered with the support of the U.S. National Science Foundation, award [2303651](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303651).
